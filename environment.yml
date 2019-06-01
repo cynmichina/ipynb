@@ -10,4 +10,4 @@ dependencies:
     - pandas
     - thinc
     - jupyter_contrib_nbextensions 
-    - jupyter_contrib_nbextensions --user
+    

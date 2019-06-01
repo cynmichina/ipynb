@@ -9,3 +9,5 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - jupyter_contrib_nbextensions && jupyter contrib nbextension install
+    - jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
